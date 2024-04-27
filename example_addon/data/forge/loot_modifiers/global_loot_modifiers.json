@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "entries": [
     "example_addon:egg_chance_by_config.json",
     "example_addon:egg_chance_by_random.json"
